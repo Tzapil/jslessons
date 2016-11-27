@@ -19,6 +19,29 @@
   background: #7986CB;
   color: floralwhite;
 }
+.comments .well {
+  background-image: none;
+  background-color: inherit;
+  border-width: 0 0 0;
+  box-shadow: none;
+}
+.comments-heading {
+  margin: 0px auto;
+  padding: 20px 0px;
+  font-size: 16px;
+}
+.comments-heading .comments-title {
+  font-weight: bold;
+  margin-right: 20px;
+}
+.comments-heading .form-control {
+  height: 24px;
+}
+.comments-heading .control-label {
+  font-weight: normal;
+  font-size: 12px;
+  color: gray;
+}
 .carousel {
   background: #1a237e;
 }
