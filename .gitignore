@@ -1,2 +1,4 @@
 /bower_components
-/__MACOSX
+/node_modules
+/dist
+/.tmp
